@@ -2,11 +2,7 @@
 
 ## Project Description
 
-This GitHub repository contains the complete implementation of my **college academic project** on **object detection and multi-object tracking using deep learning techniques**.
-
 The project uses the **YOLOv5 framework** for object detection and demonstrates how detection models can be trained on benchmark datasets and then applied for tracking objects across video frames.
-
-All coding work carried out for this project is included in this repository, as per the submission instructions.
 
 ---
 
