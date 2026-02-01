@@ -1,4 +1,4 @@
-# College Project: Object Detection and Tracking using YOLOv5
+# Object Detection and Tracking using YOLOv5
 
 ## Project Description
 
